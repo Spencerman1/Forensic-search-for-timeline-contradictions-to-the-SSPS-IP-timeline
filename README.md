@@ -1,2 +1,4 @@
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
 # Forensic-search-for-timeline-contradictions-to-the-SSPS-IP-timeline
 Contradiction scans show no true Jan 2024 evidence of agentic orchestration matching SSPS™. Only LangGraph launched then with plumbing (routers, state graphs), lacking credential-bound governance. Cisco, McKinsey, ISG claims all date to 2025, proving semantic inflation, not pre-authorship logic.
